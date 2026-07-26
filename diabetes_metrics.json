@@ -1,0 +1,50 @@
+{
+  "KNN": {
+    "accuracy": 0.7273,
+    "precision": 0.625,
+    "recall": 0.5556,
+    "f1_score": 0.5882,
+    "confusion_matrix": [
+      [
+        82,
+        18
+      ],
+      [
+        24,
+        30
+      ]
+    ]
+  },
+  "Naive Bayes": {
+    "accuracy": 0.7013,
+    "precision": 0.5667,
+    "recall": 0.6296,
+    "f1_score": 0.5965,
+    "confusion_matrix": [
+      [
+        74,
+        26
+      ],
+      [
+        20,
+        34
+      ]
+    ]
+  },
+  "Decision Tree": {
+    "accuracy": 0.7597,
+    "precision": 0.6393,
+    "recall": 0.7222,
+    "f1_score": 0.6783,
+    "confusion_matrix": [
+      [
+        78,
+        22
+      ],
+      [
+        15,
+        39
+      ]
+    ]
+  }
+}

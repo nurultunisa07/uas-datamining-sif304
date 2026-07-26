@@ -1,0 +1,18 @@
+{
+  "feature_cols": [
+    "y",
+    "x",
+    "population_density",
+    "traffic_flow",
+    "competitor_count",
+    "is_commercial"
+  ],
+  "n_clusters": 4,
+  "sepi_cluster": 1,
+  "cluster_counts": {
+    "2": 1588,
+    "1": 1528,
+    "0": 1021,
+    "3": 863
+  }
+}
